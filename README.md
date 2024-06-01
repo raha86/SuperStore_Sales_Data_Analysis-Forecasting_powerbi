@@ -6,17 +6,17 @@
 
 
 # Problem Statement
-The project aims to conduct a comprehensive #analysis of sales performance for SuperStore, a leading company in the retail sector. By delving into various aspects of sales, identifying key performance indicators (KPIs), and developing robust forecasting models, the objective is to equip SuperStore with actionable insights to optimize its sales strategies, drive revenue growth, and maintain a competitive edge in the market.
+The project aims to conduct a comprehensive analysis of sales performance for SuperStore, a leading company in the retail sector. By delving into various aspects of sales, identifying key performance indicators (KPIs), and developing robust forecasting models, the objective is to equip SuperStore with actionable insights to optimize its sales strategies, drive revenue growth, and maintain a competitive edge in the market.
 
 
 # Data Preparation and Modelling
-After importing the data from the data source performed #powerquery is used for #datacleaning and #datamodelling. #dax are used to append or create calculated measures.
+After importing the data from the data source performed powerquery is used for datacleaning and datamodelling. Dax queries are used to append or create calculated measures.
 
 # Data Visualization
-Then an insightful dashboard is created that shows high-level overview of multiple parameters and KPIs. Different types of visualization methods like Line chart, Area chart, Bar chart, Column chart, Donut chart, Pie chart, Gauge chart are used.
+Then an insightful dashboard is created that shows high-level overview of multiple parameters and KPIs. Different types of visualization methods like Line chart, Area chart, Bar chart, Column chart, Donut chart, Map are used.
 
 # Details on Forecasting
-For forecasting line chart is used as it is the only #visualization chart that supports forecasting. Here future prediction is allowed for 15 days. Confidence interval for the predicted data is 95%.
+For forecasting line chart is used as it is the only visualization chart that supports forecasting. Here future prediction is allowed for 15 days. Confidence interval for the predicted data is 95%.
 
 
 # Insights
